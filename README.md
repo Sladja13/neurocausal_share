@@ -22,10 +22,10 @@ TBD
 
 TBD
 
-### Acnkoledgmens 
+### Acknowledgments 
 We wound't be here without 
 * the terrific [OLS program](https://openlifesci.org/)
-* our brilliant and geneorus mentor, Sara El-Gebali @selgebali
+* our brilliant and generous mentor, Sara El-Gebali @selgebali
 * the tools we are building upon: [Neurosynth, Neuroquery, Neurovault, & CognitiveAtlas](https://neurocausal.github.io/#accomplishments)
 * the [Brainhack community](https://brainhack.org/)
 
