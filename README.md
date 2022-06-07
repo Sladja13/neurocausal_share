@@ -22,7 +22,7 @@ TBD
 
 TBD
 
-### Acnkoledgmens 
+### Acknowledgments 
 We wound't be here without 
 * the terrific [OLS program](https://openlifesci.org/)
 * our brilliant and geneorus mentor, Sara El-Gebali @selgebali
